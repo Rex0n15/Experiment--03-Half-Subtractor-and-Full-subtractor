@@ -40,14 +40,17 @@ Developed by: REXON J.P
 RegisterNumber:212222050048  
 */
 
-## Output:![program](https://user-images.githubusercontent.com/130550796/233008061-28e0bcbd-1661-4990-80a5-c9a275fa4335.jpg)
+## Output:![diagram]![WhatsApp Image 2023-04-19 at 14 05 34](https://user-images.githubusercontent.com/130550796/233032661-f0d355e8-77ae-4931-afba-03beb838a4e3.jpg)
+
+
 
 
 ## Truthtable
 
 
 
-##  RTL realization
+##  RTL realization![diagram](https://user-images.githubusercontent.com/130550796/233032528-7ee25120-0081-4a28-b13f-966b8c19168a.jpg)
+
 
 
 ## Timing diagram 
