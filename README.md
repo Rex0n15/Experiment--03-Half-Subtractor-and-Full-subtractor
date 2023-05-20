@@ -43,10 +43,8 @@ assign borrowl=(~a&(b^c)|(b&c));
 endmodule
 ```
 /*
-Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: REXON J.P
-RegisterNumber:212222050048  
-*/
+
+
 
 ## Output:![diagram]![WhatsApp Image 2023-04-19 at 14 05 34](https://user-images.githubusercontent.com/130550796/233032661-f0d355e8-77ae-4931-afba-03beb838a4e3.jpg)
 
